@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "bruce_lee.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

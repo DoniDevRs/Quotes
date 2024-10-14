@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "albert_einstein.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

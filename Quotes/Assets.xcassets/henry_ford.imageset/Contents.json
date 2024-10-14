@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "henry_ford.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,114 @@
+// MARK: - HomeTabBar
+
+"quotesTitle" = "Quotes";
+"settingsTitle" = "Settings";
+
+// MARK: - SettingsView
+
+"autoChangeLabelText" = "Switch Automatically";
+"labelTimeIntervalText" = "Switch after 8 seconds";
+"labelColorSchemeText" = "Color Scheme";
+"lightText" = "Light";
+"darkText" = "Dark";
+"instructionText" = "To change between quotes, tap anywhere on the \"Quotes\" screen";
+"changeAfterText" = "Switch after";
+"secondsText" = "seconds";
+
+// MARK: - Quotes
+
+"SteveJobsQuote1" = "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.";
+"SteveJobsQuote2" = "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.";
+"SteveJobsQuote3" = "Don’t let the noise of others’ opinions drown out your own inner voice.";
+"SteveJobsQuote4" = "Sometimes life hits you in the head with a brick. Don't lose faith.";
+
+"JesusChristAuthor" = "Jesus Christ";
+"JesusChristQuote1" = "Do not be anxious about tomorrow, for tomorrow will be anxious for itself. Let the day's own trouble be sufficient for the day.";
+"JesusChristQuote2" = "Do not let your hearts be troubled. Trust in God; trust also in me.";
+"JesusChristQuote3" = "I am the Way, the Truth, and the Life. No one comes to the Father except through me.";
+
+"BruceLeeQuote1" = "Empty your mind. Be formless, shapeless like water. Now you put water into a cup, it becomes the cup. You put water into a bottle, it becomes the bottle. You put water in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water my friend.";
+"BruceLeeQuote2" = "A wise man can learn more from a foolish question than a fool can learn from a wise answer.";
+
+"ArthurConanQuote1" = "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.";
+"ArthurConanQuote2" = "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.";
+"ArthurConanQuote3" = "Any truth is better than indefinite doubt.";
+
+"AristotleAuthor" = "Aristotle";
+"AristotleQuote1" = "Quality is not an act, it is a habit.";
+"AristotleQuote2" = "A friend to all is a friend to none.";
+"AristotleQuote3" = "Happiness depends upon ourselves.";
+
+"JohnDonneQuote1" = "No man is an island, entire of itself; every man is a piece of the continent, a part of the main.";
+"JohnDonneQuote2" = "Reason is our soul's left hand, faith her right.";
+"JohnDonneQuote3" = "When one man dies, one chapter is not torn out of the book, but translated into a better language.";
+
+"BlaisePascalQuote1" = "The heart has its reasons which reason knows nothing of... We know the truth not only by the reason, but by the heart.";
+"BlaisePascalQuote2" = "Kind words do not cost much. Yet they accomplish much.";
+"BlaisePascalQuote3" = "Small minds are concerned with the extraordinary, great minds with the ordinary.";
+
+"RichardRestakQuote1" = "Until the day we die our brain remains capable of change, according to the challenges that we set for it.";
+
+"CharlesChaplinQuote1" = "Persistence is the shortest path to success.";
+"CharlesChaplinQuote2" = "A day without laughter is a day wasted.";
+"CharlesChaplinQuote3" = "Nothing is permanent in this wicked world, not even our troubles.";
+"CharlesChaplinQuote4" = "Failure is unimportant. It takes courage to make a fool of yourself.";
+
+"MarkTwainQuote1" = "Courage is resistance to fear, mastery of fear-not absence of fear.";
+"MarkTwainQuote2" = "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.";
+"MarkTwainQuote3" = "The secret of getting ahead is getting started.";
+
+"ThomasCarlyleQuote1" = "A man without a goal is like a ship without a rudder.";
+"ThomasCarlyleQuote2" = "Our main business is not to see what lies dimly at a distance, but to do what lies clearly at hand.";
+"ThomasCarlyleQuote3" = "Culture is the process by which a person becomes all that they were created capable of being.";
+
+"MahatmaGandhiQuote1" = "Joy lies in the fight, in the attempt, in the suffering involved, not in the victory itself.";
+"MahatmaGandhiQuote2" = "First they ignore you, then they laugh at you, then they fight you, then you win.";
+"MahatmaGandhiQuote3" = "Live as if you were to die tomorrow. Learn as if you were to live forever.";
+"MahatmaGandhiQuote4" = "The best way to find yourself is to lose yourself in the service of others.";
+"MahatmaGandhiQuote5" = "Where there is love there is life.";
+"MahatmaGandhiQuote6" = "Be the change that you wish to see in the world.";
+
+"DavidAllenQuote1" = "You can do anything, but not everything.";
+"DavidAllenQuote2" = "Your mind is for having ideas, not holding them.";
+"DavidAllenQuote3" = "If you don't pay appropriate attention to what has your attention, it will take more of your attention than it deserves.";
+
+"WayneGretzyQuote1" = "You miss 100% of the shots you don't take.";
+"WayneGretzyQuote2" = "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.";
+
+"AbrahamMaslowQuote1" = "To the man who only has a hammer, everything he encounters begins to look like a nail.";
+"AbrahamMaslowQuote2" = "The ability to be in the present moment is a major component of mental wellness.";
+"AbrahamMaslowQuote3" = "What is necessary to change a person is to change his awareness of himself.";
+
+"AlbertEinsteinQuote1" = "Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand.";
+"AlbertEinsteinQuote2" = "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.";
+"AlbertEinsteinQuote3" = "We cannot solve our problems with the same thinking we used when we created them.";
+"AlbertEinsteinQuote4" = "Life is like riding a bicycle. To keep your balance, you must keep moving.";
+"AlbertEinsteinQuote5" = "If you can't explain it simply, you don't understand it well enough.";
+
+"VoltaireQuote1" = "Friendship is the marriage of the soul, and this marriage is liable to divorce.";
+"VoltaireQuote2" = "It is difficult to free fools from the chains they revere.";
+"VoltaireQuote3" = "Faith consists in believing when it is beyond the power of reason to believe.";
+
+"BobMarleyQuote1" = "As long as the color of the skin is more important than the brightness of the eyes, there will be war.";
+"BobMarleyQuote2" = "The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.";
+"BobMarleyQuote3" = "Don't gain the world and lose your soul; wisdom is better than silver or gold.";
+
+"AmeliaEarhartQuote1" = "The most difficult thing is the decision to act, the rest is merely tenacity.";
+"AmeliaEarhartQuote2" = "Courage is the price that life exacts for granting peace.";
+"AmeliaEarhartQuote3" = "The most effective way to do it, is to do it.";
+
+"JohnLennonQuote1" = "Life is what happens while you are busy making other plans.";
+"JohnLennonQuote2" = "Love is the flower you've got to let grow.";
+"JohnLennonQuote3" = "Reality leaves a lot to the imagination.";
+
+"BuddhaQuote1" = "The mind is everything. What you think, you become.";
+"BuddhaQuote2" = "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.";
+"BuddhaQuote3" = "Three things cannot be long hidden: the sun, the moon, and the truth.";
+
+"HenryFordQuote1" = "Whether you think you can, or you think you can't, you're right.";
+"HenryFordQuote2" = "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.";
+"HenryFordQuote3" = "Quality means doing it right when no one is looking.";
+
+"ZigZiglarQuote1" = "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.";
+"ZigZiglarQuote2" = "You don't have to be great to start, but you have to start to be great.";
+"ZigZiglarQuote3" = "Positive thinking will let you do everything better than negative thinking will.";

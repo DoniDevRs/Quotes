@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "aristoteles.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

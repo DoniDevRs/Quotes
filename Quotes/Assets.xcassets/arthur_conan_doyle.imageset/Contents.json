@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "arthur_conan_doyle.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

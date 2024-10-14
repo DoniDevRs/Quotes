@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "charles_chaplin.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

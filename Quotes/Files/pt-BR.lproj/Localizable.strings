@@ -1,0 +1,114 @@
+// MARK: - HomeTabBar
+
+"quotesTitle" = "Citações";
+"settingsTitle" = "Configurações";
+
+// MARK: - SettingsView
+
+"autoChangeLabelText" = "Mudar Automaticamente";
+"labelTimeIntervalText" = "Mudar após 8 segundos";
+"labelColorSchemeText" = "Esquema de Cores";
+"lightText" = "Claro";
+"darkText" = "Escuro";
+"instructionText" = "Para mudar de citação basta tocar em qualquer lugar na tela \"Citações\".";
+"changeAfterText" = "Mudar após";
+"secondsText" = "segundos";
+
+// MARK: - Quotes
+
+"SteveJobsQuote1" = "A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere.";
+"SteveJobsQuote2" = "Tenha a coragem de seguir seu coração e sua intuição. De alguma forma, eles já sabem o que você realmente deseja se tornar. Todo o resto é secundário.";
+"SteveJobsQuote3" = "Não deixe que o ruído das opiniões dos outros abafe a sua voz interior.";
+"SteveJobsQuote4" = "Às vezes a vida bate na sua cabeça com um tijolo. Não perca a fé.";
+
+"JesusChristAuthor" = "Jesus Cristo";
+"JesusChristQuote1" = "Portanto, não se preocupem com o amanhã, pois o amanhã trará as suas próprias preocupações. Basta a cada dia o seu próprio mal.";
+"JesusChristQuote2" = "Não deixem que seu coração fique aflito. Creiam em Deus; creiam também em mim.";
+"JesusChristQuote3" = "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim.";
+
+"BruceLeeQuote1" = "Esvazie sua mente, seja sem forma como a água. Se você coloca água em uma xícara, ela se torna a xícara, você coloca água em uma garrafa, ela se torna a garrafa, você a coloca em um bule, ela se torna o bule. A água pode fluir ou pode bater. Seja água meu amigo.";
+"BruceLeeQuote2" = "Um homem sábio pode aprender mais com uma pergunta idiota, do que um idiota com uma resposta sábia.";
+
+"ArthurConanQuote1" = "Uma vez eliminado o impossível, o que restar, não importa o quão improvável, deve ser a verdade.";
+"ArthurConanQuote2" = "A mediocridade não reconhece nada que lhe seja superior, mas o talento reconhece a genialidade instantaneamente.";
+"ArthurConanQuote3" = "Qualquer verdade é melhor do que a dúvida indefinida.";
+
+"AristotleAuthor" = "Aristóteles";
+"AristotleQuote1" = "Qualidade não é um ato, é um hábito.";
+"AristotleQuote2" = "Quem é amigo de todos não é amigo de ninguém.";
+"AristotleQuote3" = "A felicidade depende de nós mesmos.";
+
+"JohnDonneQuote1" = "Nenhum homem é uma ilha isolada; cada homem é um pedaço do continente, uma parte do continente.";
+"JohnDonneQuote2" = "A razão é a mão esquerda da nossa alma, a fé a direita.";
+"JohnDonneQuote3" = "Quando um homem morre, um capítulo não é arrancado do livro, mas traduzido para uma linguagem melhor.";
+
+"BlaisePascalQuote1" = "O coração tem razões que a razão desconhece... Conhecemos a verdade não só pela razão, mas pelo coração.";
+"BlaisePascalQuote2" = "Palavras gentis não custam muito e ainda assim conquistam o mundo.";
+"BlaisePascalQuote3" = "As mentes pequenas preocupam-se com o extraordinário, as grandes mentes com o comum.";
+
+"RichardRestakQuote1" = "Até ao dia da nossa morte o nosso cérebro permanece capaz de mudar, de acordo com os desafios que lhe propomos.";
+
+"CharlesChaplinQuote1" = "A persistência é o caminho mais curto para o sucesso.";
+"CharlesChaplinQuote2" = "Um dia sem rir é um dia perdido.";
+"CharlesChaplinQuote3" = "Nada é permanente neste mundo perverso, nem mesmo os nossos problemas.";
+"CharlesChaplinQuote4" = "O fracasso não é importante. É preciso coragem para fazer papel de bobo.";
+
+"MarkTwainQuote1" = "Coragem é resistência ao medo, domínio do medo – não ausência de medo.";
+"MarkTwainQuote2" = "É melhor manter a boca fechada e deixar que as pessoas pensem que você é um tolo do que abri-la e tirar todas as dúvidas.";
+"MarkTwainQuote3" = "O segredo para progredir é começar.";
+
+"ThomasCarlyleQuote1" = "Um homem sem propósito é como um navio sem leme.";
+"ThomasCarlyleQuote2" = "Nossa principal função não é enxergar o que jaz vagamente a distância, mas sim fazer o que está claramente à mão.";
+"ThomasCarlyleQuote3" = "Cultura é o processo pelo qual uma pessoa se torna tudo o que foi criada capaz de ser.";
+
+"MahatmaGandhiQuote1" = "A alegria está na luta, na tentativa, no sofrimento envolvido, não na vitória em si.";
+"MahatmaGandhiQuote2" = "Primeiro eles te ignoram, depois riem de você, depois brigam com você e então você vence.";
+"MahatmaGandhiQuote3" = "Viva como se você fosse morrer amanhã. Aprenda como se fosse viver para sempre.";
+"MahatmaGandhiQuote4" = "O melhor modo de encontrar a si mesmo é se perder servindo aos outros.";
+"MahatmaGandhiQuote5" = "Onde há amor há vida.";
+"MahatmaGandhiQuote6" = "Seja a mudança que você deseja ver no mundo.";
+
+"DavidAllenQuote1" = "Você pode fazer qualquer coisa, mas não tudo.";
+"DavidAllenQuote2" = "Sua mente serve para ter ideias, não para mantê-las.";
+"DavidAllenQuote3" = "Se você não prestar a devida atenção ao que chama sua atenção, isso exigirá mais atenção do que merece.";
+
+"WayneGretzyQuote1" = "Você erra 100% dos arremessos que não dá.";
+"WayneGretzyQuote2" = "A procrastinação é uma das doenças mais comuns e mortais e seu impacto no sucesso e na felicidade é pesado.";
+
+"AbrahamMaslowQuote1" = "Para o homem que só tem um martelo, tudo o que encontra começa a parecer um prego.";
+"AbrahamMaslowQuote2" = "A capacidade de estar no momento presente é um componente importante do bem-estar mental.";
+"AbrahamMaslowQuote3" = "O que é necessário para mudar uma pessoa é mudar a consciência que ela tem de si mesma.";
+
+"AlbertEinsteinQuote1" = "A imaginação é mais importante que o conhecimento. Pois o conhecimento é limitado a tudo o que conhecemos e compreendemos agora, enquanto a imaginação abrange o mundo inteiro e tudo o que existirá para conhecer e compreender.";
+"AlbertEinsteinQuote2" = "Aprenda com ontem, viva o hoje, espere pelo amanhã. O importante é não deixar de questionar.";
+"AlbertEinsteinQuote3" = "Não podemos resolver nossos problemas com o mesmo pensamento que usamos quando os criamos.";
+"AlbertEinsteinQuote4" = "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo.";
+"AlbertEinsteinQuote5" = "Se você não consegue explicar algo de modo simples é porque não entendeu bem a coisa.";
+
+"VoltaireQuote1" = "A amizade é o casamento da alma, e esse casamento está sujeito ao divórcio.";
+"VoltaireQuote2" = "É difícil libertar os tolos das amarras que eles veneram!";
+"VoltaireQuote3" = "A fé consiste em acreditar quando está além do poder da razão acreditar.";
+
+"BobMarleyQuote1" = "Enquanto a cor da pele for mais importante que o brilho dos olhos, haverá guerra.";
+"BobMarleyQuote2" = "A grandeza de um homem não está na quantidade de riqueza que ele adquire, mas na sua integridade e na sua capacidade de afetar positivamente aqueles que o rodeiam.";
+"BobMarleyQuote3" = "Não ganhe o mundo e perca sua alma; a sabedoria é melhor que a prata ou o ouro.";
+
+"AmeliaEarhartQuote1" = "O mais difícil é a decisão de agir, o resto é apenas tenacidade.";
+"AmeliaEarhartQuote2" = "A coragem é o preço que a vida cobra para garantir a paz.";
+"AmeliaEarhartQuote3" = "O jeito mais eficiente de se fazer algo é fazendo!";
+
+"JohnLennonQuote1" = "A vida é o que acontece enquanto você está ocupado fazendo outros planos.";
+"JohnLennonQuote2" = "O amor é a flor que você tem que deixar crescer.";
+"JohnLennonQuote3" = "A realidade deixa muito para a imaginação.";
+
+"BuddhaQuote1" = "A mente é tudo. O que você pensa, você se torna.";
+"BuddhaQuote2" = "Não viva no passado, não sonhe com o futuro, concentre a mente no momento presente.";
+"BuddhaQuote3" = "Três coisas não podem ficar escondidas por muito tempo: o sol, a lua e a verdade.";
+
+"HenryFordQuote1" = "Quer você pense que pode, ou que não pode, você está certo.";
+"HenryFordQuote2" = "Quando tudo parecer ir contra você, lembre-se que o avião decola contra o vento, e não a favor dele.";
+"HenryFordQuote3" = "Qualidade significa fazer certo quando ninguém está olhando.";
+
+"ZigZiglarQuote1" = "As pessoas costumam dizer que a motivação não dura. Bem, o banho também não, é por isso que o recomendamos diariamente.";
+"ZigZiglarQuote2" = "Você não precisa ser bom para começar. Mas você precisa começar para ser bom.";
+"ZigZiglarQuote3" = "O pensamento positivo permitirá que você faça tudo melhor do que o pensamento negativo.";

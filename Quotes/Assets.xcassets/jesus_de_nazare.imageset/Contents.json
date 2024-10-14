@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "jesus_de_nazare.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
