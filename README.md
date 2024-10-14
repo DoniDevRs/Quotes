@@ -4,7 +4,7 @@
 
 An iOS app that shows Quotes from the world's greatest thinkers. 
 
-Quotes are shown randomly and the user can define whether they change automatically or by clicking on the screen. The user can also switch between light mode and darkmode.
+Quotes are shown randomly and the user can define whether they change automatically or by clicking on the screen. The user can also switch between light mode and dark mode.
 
 ## Technical specs
 - Language: Swift
